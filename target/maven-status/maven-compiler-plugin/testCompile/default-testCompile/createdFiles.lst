@@ -1,0 +1,16 @@
+Pages/BasePage.class
+Utils/CapabilitiesManager.class
+Pages/RegistrationPage.class
+Pages/HomePage.class
+stepdefinitons/UserStepdefs.class
+DF_SampleFromStart/DF_Start/AppTest.class
+Utils/DriverManager.class
+runnerClass/MyRunnerTest.class
+Pages/BasePage$1.class
+Utils/GlobalParams.class
+Pages/LoginPage.class
+Utils/PropertyManager.class
+Utils/ServerManager.class
+Utils/TestUtils.class
+Pages/BasePage$2.class
+stepdefinitons/Hooks.class
